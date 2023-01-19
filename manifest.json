@@ -5,6 +5,6 @@
   "version": "1.0",
   "action": {
     "default_popup": "kahoot.html",
-    "default_icon": "kahoot.png"
+    "default_icon": "HD_transparent_picture.png"
   }
 }
